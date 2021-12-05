@@ -62,4 +62,7 @@
 > 13. nrg : 다음 k로 이동후(n) 뒤char(k)을 g로 바꿈 (57)
 > 14. ZZ : 저장후 종료 (59)
 
+## 다섯번째 문제 Python dataclasses 6013804df3308e0009368f1c
+![GOMCAM-20211205_1120540117](https://user-images.githubusercontent.com/94767794/144732649-4ce68c0f-2caf-4ae4-9308-662ce50f4dbc.gif)
+
 
