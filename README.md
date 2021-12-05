@@ -42,7 +42,7 @@
 > 14. P : 그 위치에 붙여넣기 (Debug 입력됨) (33)
 > 15. ZZ :저장후 종료 (35)
 
-## 네번쨰 문제 Plotting some variables in python 9v0060da5177000000000209
+## 네번째 문제 Plotting some variables in python 9v0060da5177000000000209
 ![GOMCAM-20211205_1026410758](https://user-images.githubusercontent.com/94767794/144732225-ed288983-4248-48de-b733-67242e11da30.gif)
 최고점 : 34 \
 내풀이점수 : 59
@@ -64,5 +64,19 @@
 
 ## 다섯번째 문제 Python dataclasses 6013804df3308e0009368f1c
 ![GOMCAM-20211205_1120540117](https://user-images.githubusercontent.com/94767794/144732649-4ce68c0f-2caf-4ae4-9308-662ce50f4dbc.gif)
+최고점 : 19 \
+내풀이점수 : 29
+> 1. :5(Enter) : 5번째 줄로 이동(3)
+> 2. yw : 단어복사(student_id) (5)
+> 3. G : 맨아래 라인으로 이동 (6)
+> 4. (up) : 위로 한번 이동(7)
+> 5. f" : 그 라인의 첫번쨰 "를 탐색해 그 앞으로 이동 (9)
+> 6. p : 한 칸 뒤에 붙여넣기함("뒤에 student_id입력") (10)
+> 7. a : 다음 칸에서 입력모드를 시작함 (11)
+> 8. ,name,age,score(Enter) : ,name,age,score를 입력한뒤 입력모드 종료(27)
+> 9. ZZ : 저장후 종료 (29) \
+>> 8에서 저렇게 안쓰고 뭐 복사해서 옮긴다든가 시도는 여러가지 해봤으나 오히려 길어져서 그냥 타이핑 하기로 했습니다.
 
+
+### 여기까지 vimgolf 과제를 마칩니다~
 
